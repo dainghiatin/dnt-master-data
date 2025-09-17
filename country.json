@@ -517,4 +517,1040 @@
       "country_code": "GEL",
       "amount": null,
       "rate": 0.98,
-      "result_DỊ":
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Germany",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Ghana",
+      "country_code": "GHS",
+      "amount": null,
+      "rate": 0.216,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Greece",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Grenada",
+      "country_code": "XCD",
+      "amount": null,
+      "rate": 1.0,
+      "result_DỊ": 0,
+      "note": "East Caribbean"
+    },
+    {
+      "country": "Guatemala",
+      "country_code": "GTQ",
+      "amount": null,
+      "rate": 0.344,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Guinea",
+      "country_code": "GNF",
+      "amount": null,
+      "rate": 0.005,
+      "result_DỊ": 0,
+      "note": "West + Central Africa"
+    },
+    {
+      "country": "Guinea-Bissau",
+      "country_code": "XOF",
+      "amount": null,
+      "rate": 0.005,
+      "result_DỊ": 0,
+      "note": "West + Central Africa"
+    },
+    {
+      "country": "Guyana",
+      "country_code": "GYD",
+      "amount": null,
+      "rate": 0.013,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Haiti",
+      "country_code": "HTG",
+      "amount": null,
+      "rate": 0.02,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Holy See",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Honduras",
+      "country_code": "HNL",
+      "amount": null,
+      "rate": 0.1,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Hungary",
+      "country_code": "HUF",
+      "amount": null,
+      "rate": 0.008,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Iceland",
+      "country_code": "ISK",
+      "amount": null,
+      "rate": 0.022,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "India",
+      "country_code": "INR",
+      "amount": null,
+      "rate": 0.03,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Indonesia",
+      "country_code": "IDR",
+      "amount": null,
+      "rate": 0.0002,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Iran",
+      "country_code": "IRR",
+      "amount": null,
+      "rate": 0.00006,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Iraq",
+      "country_code": "IQD",
+      "amount": null,
+      "rate": 0.002,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Ireland",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Israel",
+      "country_code": "ILS",
+      "amount": null,
+      "rate": 0.8,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Italy",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Jamaica",
+      "country_code": "JMD",
+      "amount": null,
+      "rate": 0.017,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Japan",
+      "country_code": "JPY",
+      "amount": null,
+      "rate": 0.02,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Jordan",
+      "country_code": "JOD",
+      "amount": null,
+      "rate": 3.722,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Kazakhstan",
+      "country_code": "KZT",
+      "amount": null,
+      "rate": 0.005,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Kenya",
+      "country_code": "KES",
+      "amount": null,
+      "rate": 0.02,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Kiribati",
+      "country_code": "AUD",
+      "amount": null,
+      "rate": 1.75,
+      "result_DỊ": 0,
+      "note": "Australia"
+    },
+    {
+      "country": "Kuwait",
+      "country_code": "KWD",
+      "amount": null,
+      "rate": 8.64,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Kyrgyzstan",
+      "country_code": "KGS",
+      "amount": null,
+      "rate": 0.03,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Laos",
+      "country_code": "LAK",
+      "amount": null,
+      "rate": 0.0001,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Latvia",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Lebanon",
+      "country_code": "LBP",
+      "amount": null,
+      "rate": 0.00003,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Lesotho",
+      "country_code": "LSL",
+      "amount": null,
+      "rate": 0.152,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Liberia",
+      "country_code": "LRD",
+      "amount": null,
+      "rate": 0.027,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Libya",
+      "country_code": "LYD",
+      "amount": null,
+      "rate": 0.5,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Liechtenstein",
+      "country_code": "CHF",
+      "amount": null,
+      "rate": 2.84,
+      "result_DỊ": 0,
+      "note": "Switzerland"
+    },
+    {
+      "country": "Lithuania",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Luxembourg",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Madagascar",
+      "country_code": "MGA",
+      "amount": null,
+      "rate": 0.0005,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Malawi",
+      "country_code": "MWK",
+      "amount": null,
+      "rate": 0.0015,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Malaysia",
+      "country_code": "MYR",
+      "amount": null,
+      "rate": 0.62,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Maldives",
+      "country_code": "MVR",
+      "amount": null,
+      "rate": 0.172,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Mali",
+      "country_code": "XOF",
+      "amount": null,
+      "rate": 0.005,
+      "result_DỊ": 0,
+      "note": "West + Central Africa"
+    },
+    {
+      "country": "Malta",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 6.2,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Marshall Islands",
+      "country_code": "USD",
+      "amount": null,
+      "rate": 2.6,
+      "result_DỊ": 0,
+      "note": "USD"
+    },
+    {
+      "country": "Mauritania",
+      "country_code": "MRU",
+      "amount": null,
+      "rate": 0.066,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Mauritius",
+      "country_code": "MUR",
+      "amount": null,
+      "rate": 0.058,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Mexico",
+      "country_code": "MXN",
+      "amount": null,
+      "rate": 0.143,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Micronesia",
+      "country_code": "USD",
+      "amount": null,
+      "rate": 2.6,
+      "result_DỊ": 0,
+      "note": "USD"
+    },
+    {
+      "country": "Moldova",
+      "country_code": "MDL",
+      "amount": null,
+      "rate": 0.159,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Monaco",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Mongolia",
+      "country_code": "MNT",
+      "amount": null,
+      "rate": 0.0007,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Montenegro",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 1.28,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Morocco",
+      "country_code": "MAD",
+      "amount": null,
+      "rate": 0.3,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Mozambique",
+      "country_code": "MZN",
+      "amount": null,
+      "rate": 0.042,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Myanmar",
+      "country_code": "MMK",
+      "amount": null,
+      "rate": 0.0012,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Namibia",
+      "country_code": "NAD",
+      "amount": null,
+      "rate": 0.15,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Nauru",
+      "country_code": "AUD",
+      "amount": null,
+      "rate": 0.268,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Nepal",
+      "country_code": "NPR",
+      "amount": null,
+      "rate": 0.019,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Netherlands",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "New Zealand",
+      "country_code": "NZD",
+      "amount": null,
+      "rate": 1.0,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Nicaragua",
+      "country_code": "NIO",
+      "amount": null,
+      "rate": 0.072,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Niger",
+      "country_code": "XOF",
+      "amount": null,
+      "rate": 0.005,
+      "result_DỊ": 0,
+      "note": "West + Central Africa"
+    },
+    {
+      "country": "Nigeria",
+      "country_code": "NGN",
+      "amount": null,
+      "rate": 0.005,
+      "result_DỊ": 0,
+      "note": "West + Central Africa"
+    },
+    {
+      "country": "North Korea",
+      "country_code": "KPW",
+      "amount": null,
+      "rate": 0.003,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "North Macedonia",
+      "country_code": "MKD",
+      "amount": null,
+      "rate": 0.05,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Norway",
+      "country_code": "NOK",
+      "amount": null,
+      "rate": 0.268,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Oman",
+      "country_code": "OMR",
+      "amount": null,
+      "rate": 6.85,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Pakistan",
+      "country_code": "PKR",
+      "amount": null,
+      "rate": 0.009,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Palau",
+      "country_code": "USD",
+      "amount": null,
+      "rate": 2.6,
+      "result_DỊ": 0,
+      "note": "USD"
+    },
+    {
+      "country": "Panama",
+      "country_code": "PAB",
+      "amount": null,
+      "rate": 2.6,
+      "result_DỊ": 0,
+      "note": "USD"
+    },
+    {
+      "country": "Papua New Guinea",
+      "country_code": "PGK",
+      "amount": null,
+      "rate": 0.633,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Paraguay",
+      "country_code": "PYG",
+      "amount": null,
+      "rate": 0.0004,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Peru",
+      "country_code": "PEN",
+      "amount": null,
+      "rate": 0.751,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Philippines",
+      "country_code": "PHP",
+      "amount": null,
+      "rate": 0.046,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Poland",
+      "country_code": "PLN",
+      "amount": null,
+      "rate": 0.728,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Portugal",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Qatar",
+      "country_code": "QAR",
+      "amount": null,
+      "rate": 0.725,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Romania",
+      "country_code": "RON",
+      "amount": null,
+      "rate": 0.612,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Russia",
+      "country_code": "RUB",
+      "amount": null,
+      "rate": 0.032,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Rwanda",
+      "country_code": "RWF",
+      "amount": null,
+      "rate": 0.002,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Saint Kitts And Nevis",
+      "country_code": "XCD",
+      "amount": null,
+      "rate": 1.0,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Saint Lucia",
+      "country_code": "XCD",
+      "amount": null,
+      "rate": 1.0,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Samoa",
+      "country_code": "WST",
+      "amount": null,
+      "rate": 1.0,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "San Marino",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Sao Tome And Principe",
+      "country_code": "STN",
+      "amount": null,
+      "rate": 0.0001,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Saudi Arabia",
+      "country_code": "SAR",
+      "amount": null,
+      "rate": 0.7,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Senegal",
+      "country_code": "XOF",
+      "amount": null,
+      "rate": 0.005,
+      "result_DỊ": 0,
+      "note": "West + Central Africa"
+    },
+    {
+      "country": "Serbia",
+      "country_code": "RSD",
+      "amount": null,
+      "rate": 0.027,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Seychelles",
+      "country_code": "SCR",
+      "amount": null,
+      "rate": 0.018,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Sierra Leone",
+      "country_code": "SLL",
+      "amount": null,
+      "rate": 0.113,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Singapore",
+      "country_code": "SGD",
+      "amount": null,
+      "rate": 2.055,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Slovakia",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Slovenia",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Solomon Islands",
+      "country_code": "SBD",
+      "amount": null,
+      "rate": 0.322,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Somalia",
+      "country_code": "SOS",
+      "amount": null,
+      "rate": 2.6,
+      "result_DỊ": 0,
+      "note": "USD"
+    },
+    {
+      "country": "South Africa",
+      "country_code": "ZAR",
+      "amount": null,
+      "rate": 0.152,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "South Korea",
+      "country_code": "KRW",
+      "amount": null,
+      "rate": 0.002,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "South Sudan",
+      "country_code": "SSP",
+      "amount": null,
+      "rate": 0.005,
+      "result_DỊ": 0,
+      "note": "West + Central Africa"
+    },
+    {
+      "country": "Spain",
+      "country_code": "EUR",
+      "amount": null,
+      "rate": 3.096,
+      "result_DỊ": 0,
+      "note": "EU"
+    },
+    {
+      "country": "Sri Lanka",
+      "country_code": "LKR",
+      "amount": null,
+      "rate": 0.009,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "St. Vincent & The Grenadines",
+      "country_code": "XCD",
+      "amount": null,
+      "rate": 1.0,
+      "result_DỊ": 0,
+      "note": "East Caribbean"
+    },
+    {
+      "country": "State Of Palestine",
+      "country_code": "ILS",
+      "amount": null,
+      "rate": 0.8,
+      "result_DỊ": 0,
+      "note": "Israel"
+    },
+    {
+      "country": "Sudan",
+      "country_code": "SDG",
+      "amount": null,
+      "rate": 0.005,
+      "result_DỊ": 0,
+      "note": "West + Central Africa"
+    },
+    {
+      "country": "Suriname",
+      "country_code": "SRD",
+      "amount": null,
+      "rate": 0.0067,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Sweden",
+      "country_code": "SEK",
+      "amount": null,
+      "rate": 0.283,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Switzerland",
+      "country_code": "CHF",
+      "amount": null,
+      "rate": 3.31,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Syria",
+      "country_code": "SYP",
+      "amount": null,
+      "rate": 0.0002,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Tajikistan",
+      "country_code": "TJS",
+      "amount": null,
+      "rate": 0.277,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Tanzania",
+      "country_code": "TZS",
+      "amount": null,
+      "rate": 0.001,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Thailand",
+      "country_code": "THB",
+      "amount": null,
+      "rate": 0.083,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Timo",
+      "country_code": "USD",
+      "amount": null,
+      "rate": 2.6,
+      "result_DỊ": 0,
+      "note": "USD"
+    },
+    {
+      "country": "Togo",
+      "country_code": "XOF",
+      "amount": null,
+      "rate": 0.005,
+      "result_DỊ": 0,
+      "note": "West + Central Africa"
+    },
+    {
+      "country": "Tonga",
+      "country_code": "TOP",
+      "amount": null,
+      "rate": 1.0,
+      "result_DỊ": 0,
+      "note": "East Caribbean"
+    },
+    {
+      "country": "Trinidad And Tobago",
+      "country_code": "TTD",
+      "amount": null,
+      "rate": 0.39,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Tunisia",
+      "country_code": "TND",
+      "amount": null,
+      "rate": 0.9,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Turkey",
+      "country_code": "TRY",
+      "amount": null,
+      "rate": 0.064,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Turkmenistan",
+      "country_code": "TMT",
+      "amount": null,
+      "rate": 0.754,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Tuvalu",
+      "country_code": "AUD",
+      "amount": null,
+      "rate": 1.75,
+      "result_DỊ": 0,
+      "note": "Australia"
+    },
+    {
+      "country": "Uganda",
+      "country_code": "UGX",
+      "amount": null,
+      "rate": 0.0008,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Ukraine",
+      "country_code": "UAH",
+      "amount": null,
+      "rate": 0.064,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "United Arab Emirates",
+      "country_code": "AED",
+      "amount": null,
+      "rate": 0.718,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "United Kingdom",
+      "country_code": "GBP",
+      "amount": null,
+      "rate": 3.58,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Uruguay",
+      "country_code": "UYU",
+      "amount": null,
+      "rate": 0.066,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Uzbekistan",
+      "country_code": "UZS",
+      "amount": null,
+      "rate": 0.0002,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Vanuatu",
+      "country_code": "VUV",
+      "amount": null,
+      "rate": 0.022,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Venezuela",
+      "country_code": "VES",
+      "amount": null,
+      "rate": 0.017,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Yemen",
+      "country_code": "YER",
+      "amount": null,
+      "rate": 0.01,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Zambia",
+      "country_code": "ZMW",
+      "amount": null,
+      "rate": 0.1,
+      "result_DỊ": 0,
+      "note": null
+    },
+    {
+      "country": "Zimbabwe",
+      "country_code": "ZWL",
+      "amount": null,
+      "rate": 0.005,
+      "result_DỊ": 0,
+      "note": "West + Central Africa"
+    }
+  ]
+}
